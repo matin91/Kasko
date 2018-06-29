@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Material Design related -->
-    <color name="colorPrimary">#c63a3a</color>
-    <color name="colorPrimaryDark">#a12f2f</color>
-    <color name="colorAccent">#ffcb2b</color>
+    <color name="colorPrimary">#FF3730</color>
+    <color name="colorPrimaryDark">#848485</color>
+    <color name="colorAccent">#f0dc91</color>
 
     <!--Other-->
     <color name="colorRipple">#e5e5e5</color>
