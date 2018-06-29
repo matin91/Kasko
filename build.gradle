@@ -1,0 +1,40 @@
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+
+ext {
+    CONFIG_LIBRARY_BUILD_VARIANT = "debug"
+
+    CONFIG_PACKAGE_NAME="com.rocklobstre.kasko"
+    CONFIG_PACKAGE_NAME_DEV_SUFFIX=".d"
+
+    CONFIG_VERSION_CODE_MOBILE = 2200
+    CONFIG_VERSION_NAME_MOBILE = "2.2"
+}
+
+buildscript {
+    repositories {
+        jcenter()
+        mavenCentral()
+        maven { url "https://oss.sonatype.org/content/repositories/snapshots/" }
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:2.3.2'
+        classpath 'com.google.gms:google-services:3.0.0'
+    }
+}
+
+allprojects {
+
+    repositories {
+        jcenter()
+        flatDir{
+            dirs 'libs'
+        }
+        mavenCentral()
+        maven { url "https://oss.sonatype.org/content/repositories/snapshots/" }
+        maven { url 'https://jitpack.io' }
+    }
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}
