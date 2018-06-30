@@ -3,7 +3,7 @@ package com.rocklobstre.kasko.domain.models;
 import com.google.gson.annotations.SerializedName;
 
 /**
- * Created by remychantenay on 25/03/2017.
+ * Created by Matin on 25/03/2017.
  */
 
 public class UserModel {

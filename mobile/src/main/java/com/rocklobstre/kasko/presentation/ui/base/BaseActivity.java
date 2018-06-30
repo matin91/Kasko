@@ -7,7 +7,7 @@ import android.support.v7.app.AppCompatActivity;
 
 /**
  * This class must implement {@link BaseView}
- * Created by remychantenay on 18/05/2016.
+ * Created by Matin on 18/05/2016.
  */
 public abstract class BaseActivity
         extends AppCompatActivity {

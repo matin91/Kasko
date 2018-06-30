@@ -12,7 +12,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * Created by remychantenay on 28/03/2017.
+ * Created by Matin on 28/03/2017.
  */
 
 public class FirebaseRemoteConfigHelper implements ConfigInterface {

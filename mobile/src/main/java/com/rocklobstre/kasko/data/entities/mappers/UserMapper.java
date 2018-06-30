@@ -5,7 +5,7 @@ import com.rocklobstre.kasko.domain.models.UserModel;
 import com.google.firebase.auth.AuthResult;
 
 /**
- * Created by remychantenay on 23/02/2017.
+ * Created by Matin on 23/02/2017.
  */
 public class UserMapper {
 

@@ -7,7 +7,7 @@ import com.google.firebase.database.Exclude;
 import com.google.gson.annotations.SerializedName;
 
 /**
- * Created by remychantenay on 23/02/2017.
+ * Created by Matin on 23/02/2017.
  */
 @Keep
 public class UserEntity {

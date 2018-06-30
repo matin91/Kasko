@@ -10,7 +10,7 @@ import android.support.v4.content.ContextCompat;
 import android.view.View;
 
 /**
- * Created by remychantenay on 27/02/2017.
+ * Created by Matin on 27/02/2017.
  */
 
 public final class ViewUtils {

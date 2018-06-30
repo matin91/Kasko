@@ -21,7 +21,7 @@ import java.util.Calendar;
 import java.util.List;
 
 /**
- * Created by remychantenay on 08/05/2016.
+ * Created by Matin on 08/05/2016.
  */
 public final class TaskWithHeadersAdapter extends RecyclerView.Adapter<TaskWithHeadersAdapter.BindingHolder>
         implements StickyRecyclerHeadersAdapter<TaskWithHeadersAdapter.BindingHolder> {

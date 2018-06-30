@@ -7,7 +7,7 @@ import com.rocklobstre.kasko.external.AnalyticsInterface;
 import com.google.firebase.analytics.FirebaseAnalytics;
 
 /**
- * Created by remychantenay on 28/03/2017.
+ * Created by Matin on 28/03/2017.
  */
 
 public class FirebaseAnalyticsHelper implements AnalyticsInterface {

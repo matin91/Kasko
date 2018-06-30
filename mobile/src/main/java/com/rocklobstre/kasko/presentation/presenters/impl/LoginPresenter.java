@@ -15,7 +15,7 @@ import com.rocklobstre.kasko.rx.DefaultObserver;
 import javax.inject.Inject;
 
 /**
- * Created by remychantenay on 08/05/2016.
+ * Created by Matin on 08/05/2016.
  */
 public final class LoginPresenter extends BasePresenter<LoginMVP.View>
         implements LoginMVP.Presenter {

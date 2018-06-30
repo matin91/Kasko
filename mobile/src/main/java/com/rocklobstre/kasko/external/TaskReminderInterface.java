@@ -8,7 +8,7 @@ import android.support.annotation.Nullable;
 import com.firebase.jobdispatcher.Job;
 
 /**
- * Created by remychantenay on 06/04/2017.
+ * Created by Matin on 06/04/2017.
  */
 
 public interface TaskReminderInterface {

@@ -4,7 +4,7 @@ import com.rocklobstre.kasko.data.entities.TagListEntity;
 import com.rocklobstre.kasko.domain.models.TagListModel;
 
 /**
- * Created by remychantenay on 23/02/2017.
+ * Created by Matin on 23/02/2017.
  */
 public class TagListMapper {
 

@@ -3,7 +3,7 @@ package com.rocklobstre.kasko.external;
 import android.support.annotation.NonNull;
 
 /**
- * Created by remychantenay on 05/04/2017.
+ * Created by Matin on 05/04/2017.
  */
 
 public interface ConfigInterface {

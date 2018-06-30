@@ -4,7 +4,7 @@ import com.rocklobstre.kasko.data.entities.TaskPriorityEntity;
 import com.rocklobstre.kasko.domain.models.TaskPriorityModel;
 
 /**
- * Created by remychantenay on 23/02/2017.
+ * Created by Matin on 23/02/2017.
  */
 public class TaskPriorityMapper {
 

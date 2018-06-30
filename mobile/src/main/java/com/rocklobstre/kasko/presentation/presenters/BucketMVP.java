@@ -9,7 +9,7 @@ import java.util.ArrayList;
 import java.util.Calendar;
 
 /**
- * Created by remychantenay on 08/05/2016.
+ * Created by Matin on 08/05/2016.
  */
 public interface BucketMVP {
 

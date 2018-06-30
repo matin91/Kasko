@@ -14,7 +14,7 @@ import com.firebase.jobdispatcher.JobParameters;
 import com.firebase.jobdispatcher.JobService;
 
 /**
- * Created by remychantenay on 06/04/2017.
+ * Created by Matin on 06/04/2017.
  */
 
 public class ReminderService extends JobService {

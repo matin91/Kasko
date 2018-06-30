@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Firebucket</string>
+    <string name="app_name">Kasko:The Talking ToDo List</string>
 
     <string name="no_network">Please, check your connection</string>
     <string name="retry">RETRY</string>

@@ -16,7 +16,7 @@ import io.reactivex.functions.Function;
 /**
  * The repository is in charge of getting the data from the {@link UserDataSourceRemote},
  * It will also map data from entity to model
- * Created by remychantenay on 23/02/2017.
+ * Created by Matin on 23/02/2017.
  */
 @Singleton
 public class UserRepository {

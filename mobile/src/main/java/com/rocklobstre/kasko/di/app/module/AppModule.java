@@ -24,7 +24,7 @@ import dagger.Provides;
 
 /**
  * This module is in charge of providing dependencies to the {@link AppComponent}
- * Created by remychantenay on 23/05/2016.
+ * Created by Matin on 23/05/2016.
  */
 @Module
 public class AppModule {

@@ -1,5 +1,5 @@
 # Firebucket
-![Firebase](https://raw.githubusercontent.com/remychantenay/Firebucket/master/art/header.jpg)
+![Firebase](https://raw.githubusercontent.com/Matin/Firebucket/master/art/header.jpg)
 
 A glimpse into the astonishing future of BaaS- [Firebase](https://www.firebase.com/) with a simple To do list app.
 
@@ -8,7 +8,7 @@ Since its interesting evolution from the [Google I/O 2016](https://developers.go
 
 This project is nothing more than a way to play with what I've learn. I was also curious to see how it fits with the tools I usually use such as Dagger and RxJava.
 
-![Screenshots](https://raw.githubusercontent.com/remychantenay/Firebucket/master/art/screenshots.jpg)
+![Screenshots](https://raw.githubusercontent.com/Matin/Firebucket/master/art/screenshots.jpg)
 
 ## Read More
 * [Read more about Firebucket on Medium](https://medium.com/@remy.chantenay/f1r3b4s3-13cf28def122)

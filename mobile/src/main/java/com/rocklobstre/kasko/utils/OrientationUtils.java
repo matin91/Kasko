@@ -7,7 +7,7 @@ import android.util.Log;
 import com.rocklobstre.kasko.presentation.ui.base.BaseView;
 
 /**
- * Created by remychantenay on 02/05/2016.
+ * Created by Matin on 02/05/2016.
  */
 public final class OrientationUtils {
     private final static String TAG = "OrientationUtils";

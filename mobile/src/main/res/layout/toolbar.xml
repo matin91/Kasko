@@ -18,7 +18,7 @@
             android:layout_width="28dp"
             android:layout_height="28dp"
             android:layout_marginRight="@dimen/material_design_keyline_two"
-            android:src="@drawable/image_logo_bucket"
+            android:src="@drawable/ic_launcher_web"
             android:gravity="center_vertical"/>
         <TextView
             style="@style/MaterialDesignTheme.ToolBarPrimary.Title"
