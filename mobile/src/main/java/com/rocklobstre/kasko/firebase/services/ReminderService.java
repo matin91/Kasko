@@ -12,6 +12,7 @@ import com.rocklobstre.kasko.R;
 import com.rocklobstre.kasko.presentation.ui.activities.BucketActivity;
 import com.firebase.jobdispatcher.JobParameters;
 import com.firebase.jobdispatcher.JobService;
+import com.rocklobstre.kasko.presentation.ui.activities.ReminderActivity;
 
 /**
  * Created by Matin on 06/04/2017.
@@ -55,6 +56,10 @@ public class ReminderService extends JobService {
 
         NotificationManagerCompat notificationManager = NotificationManagerCompat.from(this);
         notificationManager.notify((int) SystemClock.currentThreadTimeMillis(), builder.build());
+
+        String remindingMessage = taskTitle + ", is being reminded to you";
+        ReminderActivity.startMe(this, remindingMessage);
+
         return false; // Is there still work going
     }
 

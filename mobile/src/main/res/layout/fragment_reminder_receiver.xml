@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+    android:id="@+id/root_alarm_fragment"
+    >
+    <ImageView
+        android:id="@+id/imageview_app_logo"
+        style="@style/LoginFormAppIcon"
+        android:layout_alignParentTop="true"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="30dp"
+        android:elevation="@dimen/material_design_cardview_elevation_state_picked"
+        app:layout_anchor="@id/cardview_login_form"
+        app:layout_anchorGravity="top|center_horizontal"
+        android:transitionName="@string/transition_logo_onboarding_to_login_and_register"/>
+
+    <Button
+        android:id="@+id/btn_alarm_dismiss"
+        android:layout_width="192dp"
+        android:layout_height="96dp"
+        android:layout_gravity="center"
+        android:background="?android:attr/selectableItemBackground"
+        android:fontFamily="sans-serif-medium"
+        android:padding="8dp"
+        android:layout_centerInParent="true"
+        android:text="@string/stop_alarm"
+        android:textColor="@color/white"
+        android:textSize="28sp"
+        android:layout_marginRight="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="8dp" />
+
+</RelativeLayout>

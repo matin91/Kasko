@@ -19,6 +19,8 @@ ext {
     FIREBASE_JOB_DISPATCHER_VERSION = '0.6.0'
 
     STICKY_HEADERS_LIB_VERSION = '0.4.3'
+
+    SPEAKERBOX_LIB_VERSION = '1.4.1'
 }
 
 dependencies {
@@ -79,5 +81,9 @@ dependencies {
 
     //region GSON
     compile "com.google.code.gson:gson:${GSON_VERSION}"
+    //endregion
+
+    //region other 3rd party
+    compile "com.mapzen.android:speakerbox:${SPEAKERBOX_LIB_VERSION}"
     //endregion
 }

@@ -4,6 +4,7 @@ import android.content.Context;
 import android.content.SharedPreferences;
 import android.preference.PreferenceManager;
 
+import com.mapzen.speakerbox.Speakerbox;
 import com.rocklobstre.kasko.App;
 import com.rocklobstre.kasko.external.AnalyticsInterface;
 import com.rocklobstre.kasko.external.ConfigInterface;
@@ -93,4 +94,5 @@ public class AppModule {
     public SharedPreferences provideSharedPreferences(Context context) {
         return PreferenceManager.getDefaultSharedPreferences(context);
     }
+
 }

@@ -2,6 +2,8 @@ package com.rocklobstre.kasko.di.task;
 
 import android.support.v4.app.Fragment;
 
+import com.mapzen.speakerbox.Speakerbox;
+import com.rocklobstre.kasko.di.scope.ApplicationScope;
 import com.rocklobstre.kasko.external.AnalyticsInterface;
 import com.rocklobstre.kasko.data.repositories.TagListRepository;
 import com.rocklobstre.kasko.data.repositories.TaskRepository;

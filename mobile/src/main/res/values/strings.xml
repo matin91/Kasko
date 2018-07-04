@@ -56,4 +56,5 @@
     <string name="bucket_placeholder_empty_title">Congrats, your ToDo list is empty!</string>
     <string name="bucket_placeholder_empty_first_time_title">Welcome!\nDon\'t be shy and start by creating a task!</string>
     <string name="bucket_placeholder_error_title">Oops, an error occurred while getting your Tasks.</string>
+    <string name="stop_alarm">Close Reminder</string>
 </resources>

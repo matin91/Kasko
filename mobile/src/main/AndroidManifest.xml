@@ -39,6 +39,10 @@
             android:launchMode="singleTask"
             android:theme="@style/BucketActivityTheme"/>
 
+        <activity
+            android:name="com.rocklobstre.kasko.presentation.ui.activities.ReminderActivity"
+            android:launchMode="singleTask"
+            android:theme="@style/BucketActivityTheme"/>
 
         <!-- Firebase Messaging (FCM)-->
         <service android:name="com.rocklobstre.kasko.firebase.services.FirebucketMessagingService">
