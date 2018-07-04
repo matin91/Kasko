@@ -434,6 +434,7 @@ public class CreateTaskFragment extends BaseFragment
             startDay = dayOfMonth;
 
             calendar.set(startYear, startMonth, startDay);
+            this.calendar.set(startYear, startMonth, startDay);
 
             final String displayedDeadline = CustomDateUtils.getDisplayDate(getContext(), calendar);
             textViewItemDeadlineSubtitle.setText(displayedDeadline);
