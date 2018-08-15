@@ -2,6 +2,8 @@
 
 <img src="ic_launcher.png" alt="App Launcher" width="100" height="100"/>
 
+**[Download APK](https://github.com/RockLobstre/Kasko/blob/master/kasko.apk?raw=true)**
+
 ## What is Kasko?
 
 Kasko is a Talking To-do List app, which allows the user to set up Reminders with Priorities, Tags and an audible Reminding Message.
