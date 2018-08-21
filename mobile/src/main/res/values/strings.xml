@@ -32,7 +32,7 @@
     <string name="hint_password">Password</string>
 
     <!-- OnBoarding -->
-    <string name="onboarding_title">Get shit done with Firebucket!</string>
+    <string name="onboarding_title">Kasko reminds you get shit Done!</string>
     <string name="onboarding_cta_register">Create an account</string>
 
     <!-- Registration -->
