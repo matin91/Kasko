@@ -4,6 +4,11 @@
 
 **[Download APK](https://github.com/RockLobstre/Kasko/blob/master/kasko.apk?raw=true)**
 
+<a href="https://play.google.com/store/apps/details?id=com.rocklobstre.kasko">
+  <img src="https://www.hand2hand.global/wp-content/uploads/2018/03/play-store-badge.png" height="180"/>
+</a>
+
+
 ## What is Kasko?
 
 Kasko is a Talking To-do List app, which allows the user to set up Reminders with Priorities, Tags and an audible Reminding Message.
